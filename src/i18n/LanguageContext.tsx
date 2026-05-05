@@ -89,7 +89,7 @@ export const translations = {
         title: 'Software Engineer',
         company: 'PT Padepokan Tujuh Sembilan (Padepokan 79)',
         location: 'Bandung, Indonesia',
-        period: 'January 2023 – March 2026',
+        period: 'March 2023 – March 2026',
         points: [
           'Built and maintained production backend systems across enterprise projects in 2 years, spanning fintech, railway operations, and banking domains.',
           'Core stack: Java Spring Boot and Go — consistently assigned to high-complexity modules including event-driven messaging, legacy refactoring, and data migration.',
@@ -110,7 +110,7 @@ export const translations = {
       binus: {
         degree: 'Bachelor\'s Degree (S1) – Computer Science',
         school: 'Universitas Bina Nusantara (Binus)',
-        period: 'Graduating 2026',
+        period: 'Graduated 2026',
         details: 'GPA: 3.58 / 4.00. Thesis: Application of the Decision Tree Algorithm in a Mobile App to Predict Consumer Interest in Skincare Products.'
       },
       telkom: {
